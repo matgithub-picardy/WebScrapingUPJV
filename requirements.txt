@@ -4,3 +4,7 @@ beautifulsoup4
 requests
 lxml
 html5lib
+matplotlib
+seaborn
+fake-useragent
+tqdm
